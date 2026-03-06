@@ -25,3 +25,17 @@ Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook
 ## Applications
 - Insurance customer targeting
 - Financial product recommendation
+
+## Model Evaluation
+### Model Accuracy Comparison
+![Model Comparison](output-images/model_comparison.jpg)
+
+### Confusion Matrix (KNN)
+![Confusion Matrix](output-images/confusion_matrix_knn.jpg)
+
+### ROC Curve
+![ROC Curve](output-images/roc_curve_knn.jpg)
+
+### Scenario Analysis
+![Scenario 1](output-images/scenario1_analysis.jpg)
+![Scenario 2](output-images/scenario2_analysis.jpg)
