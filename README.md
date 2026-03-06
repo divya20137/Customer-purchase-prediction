@@ -1,3 +1,5 @@
+# Customer Purchase Prediction
+
 ## Overview
 This project predicts whether a customer will purchase insurance based on Age and Estimated Salary using machine learning classification algorithms.
 
